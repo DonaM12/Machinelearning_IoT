@@ -21,7 +21,7 @@ The following machine learning algorithms are used in this project for intrusion
 
 ## Dataset
 The dataset used is a comprehensive collection of IoT network traffic data, containing over a million data points with 42 features. The dataset includes attributes such as duration, protocol type, source and destination bytes, and flags. The target variable, "xAttack," indicates whether the network activity is classified as normal or malicious.
-The dataset used in this project comes from [Kaggle - IoT Intrusion Detection](https://www.kaggle.com/datasets/subhajournal/iotintrusion/data) and contains labeled network traffic data, including features like packet sizes, protocol types, and others. The dataset includes both normal and attack data.
+The dataset used in this project comes from [Kaggle - IoT Intrusion Detection]([https://www.kaggle.com/datasets/subhajournal/iotintrusion/data](https://www.kaggle.com/datasets/what0919/intrusion-detection )) and contains labeled network traffic data, including features like packet sizes, protocol types, and others. The dataset includes both normal and attack data.
 test_data.csv  & Train_data.csv
 
 ## Project Objectives
