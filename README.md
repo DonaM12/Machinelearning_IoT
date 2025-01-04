@@ -52,6 +52,9 @@ This project involves the following steps:
 
 The models were evaluated on the dataset, and their accuracy was compared to identify the highest-performing algorithm. 
 
+![image](https://github.com/user-attachments/assets/119c8b12-8c5c-47d8-a9d9-d424258c92cf)
+
+
 
 ## Conclusion
 
