@@ -44,9 +44,14 @@ This project involves the following steps:
   
 - Evaluation: Using metrics like accuracy, precision, recall, and F1-score to evaluate model performance.
 
+  ## Libraries used
+  ![image](https://github.com/user-attachments/assets/b12ca68e-125d-4b43-a9cf-bd605a4fd0db)
+
+
   ## Results
 
 The models were evaluated on the dataset, and their accuracy was compared to identify the highest-performing algorithm. 
+
 
 ## Conclusion
 
