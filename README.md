@@ -19,7 +19,7 @@ The following machine learning algorithms are used in this project for intrusion
 -  **Extra Trees Classifier**: The extra tree is the extremely randomized trees classifier which uses the decision tree classifier. This method is collective learning which aggregates the results of multiple correlated decision trees in a forest to provide the result of the classification. 
 - **MLP Classifier**: The multi-layer Perceptron is based on the artificial neural network. This model is a flexible and effective approach for solving classification problems including text classification as well as picture recognition. 
 
-## Dataset
+## Dataset - https://www.kaggle.com/datasets/what0919/intrusion-detection
 The dataset used is a comprehensive collection of IoT network traffic data, containing over a million data points with 42 features. The dataset includes attributes such as duration, protocol type, source and destination bytes, and flags. The target variable, "xAttack," indicates whether the network activity is classified as normal or malicious.
 The dataset used in this project comes from [Kaggle - IoT Intrusion Detection]([https://www.kaggle.com/datasets/subhajournal/iotintrusion/data](https://www.kaggle.com/datasets/what0919/intrusion-detection ) and contains labeled network traffic data, including features like packet sizes, protocol types, and others. The dataset includes both normal and attack data.
 test_data.csv  & Train_data.csv
